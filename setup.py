@@ -6,5 +6,6 @@ setup(
 	description='Multi-omics integration using graph convolution networks',
 	author='Tongxin Wang',
 	url='https://github.com/txWang/MOGONET',
-    py_modules=[]
+    py_modules=[],
+	license='MIT'
 )
