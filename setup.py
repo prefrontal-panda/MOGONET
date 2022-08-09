@@ -10,6 +10,6 @@ setup(
 	author='Tongxin Wang',
 	url='https://github.com/txWang/MOGONET',
    	py_modules=[],
-	include_package_date=True,
+	include_package_data=True,
 	license='MIT'
 )
