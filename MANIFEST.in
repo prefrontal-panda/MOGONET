@@ -9,4 +9,4 @@ include *.md
 include *.py
 
 #Exclude the .png file. We probably don't need that
-global -exclude *.png
+global-exclude *.png
