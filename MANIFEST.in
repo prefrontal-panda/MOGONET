@@ -1,0 +1,12 @@
+#The manifest file for the proper setup of the package
+
+#Include everything in the package
+graft BRCA
+graft ROSMAP
+
+include LICENSE
+include *.md
+include *.py
+
+#Exclude the .png file. We probably don't need that
+global -exclude *.png
